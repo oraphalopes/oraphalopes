@@ -5,7 +5,7 @@
 Sobre mim:
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🔭 Trabalhei como Analista de projetos de TI, Scrum, Analista de RPA, PMO
+- 🔭 Trabalhei como Consultor, Analista de projetos de TI, Scrum, Analista de RPA, PMO
 - 🏠 Moro em São Paulo - SP
 - 📚 Estudando sobre a área de Analise/Ciência de dados
 - 🌱 Em processo de formação para ser um Cientista de Dados
