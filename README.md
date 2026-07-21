@@ -89,14 +89,23 @@ A aplicação do sistema permitirá:<br>
 <br><br>
 
 ### Trading Bot de Alta Frequência - Quantum Finance
-<img align="left" width="500" src="https://github.com/oraphalopes/ReinforcementLearning/blob/main/ReinforcementLearning_QuantumFinance/rede%20neural_mercado%20financeiro.png?raw=true">
-Projeto desenvolvido em Python, utilizando a arquitetura Deep Q-Network (DQN) de Reinforcement Learning, com o objetivo de gerenciar de forma autônoma uma carteira de ativos da B3 (VALE3, PETR4 e ABEV3). O agente foi treinado em um ambiente simulado que espelha as condições do mercado financeiro, incluindo custos de transação e técnicas avançadas como Frame Stacking temporal. 
-A aplicação desta estratégia quantitativa visa:<br>
-- Maximização do Retorno Ajustado ao Risco (Alpha)<br>
-- Proteção de Capital (Risk Management)<br>
-- Detecção de Momentum <br>
-<br>
-<a href="https://github.com/oraphalopes/ReinforcementLearning/blob/main/ReinforcementLearning_QuantumFinance/Reinforcement_Learning_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github.com/oraphalopes/ReinforcementLearning/blob/main/ReinforcementLearning_QuantumFinance/rede%20neural_mercado%20financeiro.png?raw=true" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      Projeto desenvolvido em Python, utilizando a arquitetura Deep Q-Network (DQN) de Reinforcement Learning, com o objetivo de gerenciar de forma autônoma uma carteira de ativos da B3 (VALE3, PETR4 e ABEV3). O agente foi treinado em um ambiente simulado que espelha as condições do mercado financeiro, incluindo custos de transação e técnicas avançadas como Frame Stacking temporal. <br><br>
+      A aplicação desta estratégia quantitativa visa:<br>
+      - <strong>Maximização do Retorno Ajustado ao Risco (Alpha)</strong><br>
+      - <strong>Proteção de Capital (Risk Management)</strong><br>
+      - <strong>Detecção de Momentum</strong><br><br>
+      <a href="https://github.com/oraphalopes/ReinforcementLearning/blob/main/ReinforcementLearning_QuantumFinance/Reinforcement_Learning_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+    </td>
+  </tr>
+</table>
+<br clear="all">
 <!--
 **Raphaneitor/Raphaneitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
