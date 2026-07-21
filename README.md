@@ -84,7 +84,6 @@ A aplicação do sistema permitirá:<br>
 - Bloqueio de ataques com mídias estáticas, implementando o Liveness Detection através do rastreamento de marcos faciais e cálculo da razão de aspecto dos olhos (EAR) para validar interações em tempo real (piscadas).<br>
 - Redução de riscos legais e financeiros, minimização de estornos, reembolsos e passivos judiciais decorrentes de falsas contratações e invasões de contas.<br>
 <br>
-<br><br>
 <a href="https://github.com/oraphalopes/AutenticacaoFacial/blob/main/AutentifacaoFacial_QuantumFinance/Computer_Vision_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
