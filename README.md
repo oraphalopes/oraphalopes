@@ -69,6 +69,25 @@ A aplicação do Score permitirá:<br>
 - Oferta personalizada de produtos financeiros, alinhada ao perfil e histórico de cada cliente.<br>
 <br>
 <a href="https://github.com/Raphaneitor/ScoreCr-dito_QuantumFinance/blob/main/Score_Credito_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+### Autenticação Biométrica - Prevenção a Fraudes
+<img align="right" width="500" src="https://github.com/oraphalopes/AutenticacaoFacial/blob/main/AutentifacaoFacial_QuantumFinance/autenticacao_ilustracao.jpg?raw=true">
+Projeto desenvolvido em Python, utilizando Jupyter Notebook, com o objetivo de mitigar fraudes de identidade na contratação de serviços financeiros, como crédito pessoal. A proposta é criar uma esteira de autenticação de dois fatores baseada em Visão Computacional e Inteligência Artificial, combinando o reconhecimento facial clássico com provas de vivacidade. 
+A aplicação do sistema permitirá:<br>
+- Prevenção de fraudes por roubo de credenciais, garantindo que a transação está sendo realizada pelo verdadeiro titular da conta, indo além da simples verificação por senha.<br>
+- Bloqueio de ataques com mídias estáticas, implementando o Liveness Detection através do rastreamento de marcos faciais e cálculo da razão de aspecto dos olhos (EAR) para validar interações em tempo real (piscadas).<br>
+- Redução de riscos legais e financeiros, minimização de estornos, reembolsos e passivos judiciais decorrentes de falsas contratações e invasões de contas.<br>
+<br>
+<br><br>
+<a href="https://github.com/oraphalopes/AutenticacaoFacial/blob/main/AutentifacaoFacial_QuantumFinance/Computer_Vision_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+<br><br>
 <!--
 **Raphaneitor/Raphaneitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
