@@ -89,7 +89,7 @@ A aplicação do sistema permitirá:<br>
 <br><br>
 
 ### Trading Bot de Alta Frequência - Quantum Finance
-<img align="left" width="600" src="https://github.com/oraphalopes/ReinforcementLearning/blob/main/ReinforcementLearning_QuantumFinance/rede%20neural_mercado%20financeiro.png?raw=true">
+<img align="left" width="450" src="https://github.com/oraphalopes/ReinforcementLearning/blob/main/ReinforcementLearning_QuantumFinance/rede%20neural_mercado%20financeiro.png?raw=true">
 Projeto desenvolvido em Python, utilizando a arquitetura Deep Q-Network (DQN) de Reinforcement Learning, com o objetivo de gerenciar de forma autônoma uma carteira de ativos da B3 (VALE3, PETR4 e ABEV3). O agente foi treinado em um ambiente simulado que espelha as condições do mercado financeiro, incluindo custos de transação e técnicas avançadas como Frame Stacking temporal. 
 A aplicação desta estratégia quantitativa visa:<br>
 - Maximização do Retorno Ajustado ao Risco (Alpha)<br>
