@@ -33,60 +33,82 @@ Onde podem me encontrar:
 ##
 ## Portfólio e Principais Projetos
 ### AdventureWorks Vendas Online Dashboard
-<img align="left" width="500" src="https://github.com/Raphaneitor/AdventureWorksPortfolio/blob/main/imagens/AdventureWorks_neon_Dashboard_Overview.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas online da empresa AdventureWorks.
-Principais problemas a serem tratados: <br>
-- Dificuldade de exportar os dados do sistema atual e manipulação das informações.<br>
-- Segmentar dados por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
-- Medir a performance comparando períodos de tempo.<br>
-<br>
-<a href="https://github.com/Raphaneitor/AdventureWorksPortfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
-<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMTc0MzI1MTctYWEwZC00NmQzLTkyZmYtMGI1MmU0MzlmM2U2IiwidCI6IjNhNzMyOWQ1LWRmZmUtNDhiYS1iODE0LTU3YjAyOWFiNjcwOCJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 
-<br><br>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github.com/Raphaneitor/AdventureWorksPortfolio/blob/main/imagens/AdventureWorks_neon_Dashboard_Overview.png?raw=true" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas online da empresa AdventureWorks.<br><br>
+      Principais problemas a serem tratados: <br>
+      - <strong>Dificuldade de exportar os dados do sistema atual e manipulação das informações.</strong><br>
+      - <strong>Segmentar dados por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.</strong><br>
+      - <strong>Medir a performance comparando períodos de tempo.</strong><br><br>
+      <a href="https://github.com/Raphaneitor/AdventureWorksPortfolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.<br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiMTc0MzI1MTctYWEwZC00NmQzLTkyZmYtMGI1MmU0MzlmM2U2IiwidCI6IjNhNzMyOWQ1LWRmZmUtNDhiYS1iODE0LTU3YjAyOWFiNjcwOCJ9" target="_blank">Clique aqui</a> e acesse a solução desenvolvida para a empresa AdventureWorks.
+    </td>
+  </tr>
+</table>
+<br clear="all">
 
 ### Contoso Vendas Online Dashboard
-<img align="right" width="500" src="https://github.com/Raphaneitor/ContosoPortolio/blob/main/imagens/Contoso_Dashboard_Overview.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas online da empresa Contoso.
-Principais problemas a serem tratados: <br>
-- Dificuldade de exportar os dados do sistema atual e manipulação das informações.<br>
-- Segmentar dados por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
-- Medir a performance comparando períodos de tempo.<br>
-<br>
-<a href="https://github.com/Raphaneitor/ContosoPortolio/tree/main" target="_blank">Clique aqui</a> e acesse o repositório no Github.
-<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOWIwNGVhMWUtY2Y4OS00NzRjLWJkMzQtNzY5YjViNjA2Y2Q1IiwidCI6IjNhNzMyOWQ1LWRmZmUtNDhiYS1iODE0LTU3YjAyOWFiNjcwOCJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Contoso.
 
-<br><br>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas online da empresa Contoso.<br><br>
+      Principais problemas a serem tratados: <br>
+      - <strong>Dificuldade de exportar os dados do sistema atual e manipulação das informações.</strong><br>
+      - <strong>Segmentar dados por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.</strong><br>
+      - <strong>Medir a performance comparando períodos de tempo.</strong><br><br>
+      <a href="https://github.com/Raphaneitor/ContosoPortolio/tree/main" target="_blank">Clique aqui</a> e acesse o repositório no Github.<br>
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiOWIwNGVhMWUtY2Y4OS00NzRjLWJkMzQtNzY5YjViNjA2Y2Q1IiwidCI6IjNhNzMyOWQ1LWRmZmUtNDhiYS1iODE0LTU3YjAyOWFiNjcwOCJ9" target="_blank">Clique aqui</a> e acesse a solução desenvolvida para a empresa Contoso.
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github.com/Raphaneitor/ContosoPortolio/blob/main/imagens/Contoso_Dashboard_Overview.png?raw=true" width="100%">
+    </td>
+  </tr>
+</table>
+<br clear="all">
 
 ### Score de Crédito - Quantum Finance
-<img align="left" width="500" src="https://github.com/Raphaneitor/ScoreCr-dito_QuantumFinance/blob/main/QuantumFinance_logo.png?raw=true">
-Projeto desenvolvido em Python, utilizando Jupyter Notebook, com o objetivo de classificar clientes da fintech Quantum Finance por meio de técnicas de Regressão. A proposta é criar um modelo de Score de Crédito capaz de identificar padrões de comportamento e apoiar a tomada de decisão da empresa.
-A aplicação do Score permitirá:<br>
-- Aprovação automática para clientes com alto índice de confiabilidade.<br>
-- Redução do risco de inadimplência, ao prever perfis com maior probabilidade de atraso.<br>
-- Oferta personalizada de produtos financeiros, alinhada ao perfil e histórico de cada cliente.<br>
-<br>
-<a href="https://github.com/Raphaneitor/ScoreCr-dito_QuantumFinance/blob/main/Score_Credito_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github.com/Raphaneitor/ScoreCr-dito_QuantumFinance/blob/main/QuantumFinance_logo.png?raw=true" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      Projeto desenvolvido em Python, utilizando Jupyter Notebook, com o objetivo de classificar clientes da fintech Quantum Finance por meio de técnicas de Regressão. A proposta é criar um modelo de Score de Crédito capaz de identificar padrões de comportamento e apoiar a tomada de decisão da empresa.<br><br>
+      A aplicação do Score permitirá:<br>
+      - <strong>Aprovação automática para clientes com alto índice de confiabilidade.</strong><br>
+      - <strong>Redução do risco de inadimplência, ao prever perfis com maior probabilidade de atraso.</strong><br>
+      - <strong>Oferta personalizada de produtos financeiros, alinhada ao perfil e histórico de cada cliente.</strong><br><br>
+      <a href="https://github.com/Raphaneitor/ScoreCr-dito_QuantumFinance/blob/main/Score_Credito_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+    </td>
+  </tr>
+</table>
+<br clear="all">
 
 ### Autenticação Biométrica - Prevenção a Fraudes
-<img align="right" width="500" src="https://github.com/oraphalopes/AutenticacaoFacial/blob/main/AutentifacaoFacial_QuantumFinance/autenticacao_ilustracao.jpg?raw=true">
-Projeto desenvolvido em Python, utilizando Jupyter Notebook, com o objetivo de mitigar fraudes de identidade na contratação de serviços financeiros, como crédito pessoal. A proposta é criar uma esteira de autenticação de dois fatores baseada em Visão Computacional e Inteligência Artificial, combinando o reconhecimento facial clássico com provas de vivacidade. 
-A aplicação do sistema permitirá:<br>
-- Prevenção de fraudes por roubo de credenciais, garantindo que a transação está sendo realizada pelo verdadeiro titular da conta, indo além da simples verificação por senha.<br>
-- Bloqueio de ataques com mídias estáticas, implementando o Liveness Detection através do rastreamento de marcos faciais e cálculo da razão de aspecto dos olhos (EAR) para validar interações em tempo real (piscadas).<br>
-- Redução de riscos legais e financeiros, minimização de estornos, reembolsos e passivos judiciais decorrentes de falsas contratações e invasões de contas.<br>
-<br>
-<a href="https://github.com/oraphalopes/AutenticacaoFacial/blob/main/AutentifacaoFacial_QuantumFinance/Computer_Vision_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
-<br><br>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      Projeto desenvolvido em Python, utilizando Jupyter Notebook, com o objetivo de mitigar fraudes de identidade na contratação de serviços financeiros, como crédito pessoal. A proposta é criar uma esteira de autenticação de dois fatores baseada em Visão Computacional e Inteligência Artificial, combinando o reconhecimento facial clássico com provas de vivacidade. <br><br>
+      A aplicação do sistema permitirá:<br>
+      - <strong>Prevenção de fraudes por roubo de credenciais</strong>, garantindo que a transação está sendo realizada pelo verdadeiro titular da conta, indo além da simples verificação por senha.<br>
+      - <strong>Bloqueio de ataques com mídias estáticas</strong>, implementando o Liveness Detection através do rastreamento de marcos faciais e cálculo da razão de aspecto dos olhos (EAR) para validar interações em tempo real (piscadas).<br>
+      - <strong>Redução de riscos legais e financeiros</strong>, minimização de estornos, reembolsos e passivos judiciais decorrentes de falsas contratações e invasões de contas.<br><br>
+      <a href="https://github.com/oraphalopes/AutenticacaoFacial/blob/main/AutentifacaoFacial_QuantumFinance/Computer_Vision_Quantum_Finance.ipynb" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github.com/oraphalopes/AutenticacaoFacial/blob/main/AutentifacaoFacial_QuantumFinance/autenticacao_ilustracao.jpg?raw=true" width="100%">
+    </td>
+  </tr>
+</table>
+<br clear="all">
 
 ### Trading Bot de Alta Frequência - Quantum Finance
 
