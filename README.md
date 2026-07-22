@@ -1,6 +1,6 @@
 ### Olá, eu sou o Raphael👋
 
-## Analista de Projetos de TI, Consultor e Análise de dados
+## Analista de Projetos de TI | Consultor | Analista de Dados | BI | Projetos de IA e Machine Learning
 
 Sobre mim:
 
