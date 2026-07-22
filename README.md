@@ -4,11 +4,12 @@
 
 Sobre mim:
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🔭 Trabalhei como Consultor, Analista de projetos de TI, Scrum, Analista de RPA, PMO
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas;
+- 📚 Pós-graduado em Data Science e Inteligência Artificial;
+- 🔭 Experiência em projetos de TI e Consultoria;
+- ⚙️ Desenvolvendo soluções utilizando Python, SQL, Power BI, Machine Learning e Inteligência Artificial aplicados a problemas de negócio;
 - 🏠 Moro em São Paulo - SP
-- 📚 Estudando sobre a área de Analise/Ciência de dados
-- 🌱 Em processo de formação para ser um Cientista de Dados
+- 🌱 Interesse profissional nas áreas de Dados, Analytics e Ciência de Dados.
 
 ##
 
